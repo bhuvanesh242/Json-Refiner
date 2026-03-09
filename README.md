@@ -37,10 +37,6 @@ Full GitHub README (professional format)
 Project architecture diagram
 Viva / seminar explanation
 
-
-
-
-
 #TEAM MEMBERS:
 1.Bhuvanesh
 2.Rakeshkannan 
